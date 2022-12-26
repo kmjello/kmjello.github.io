@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [jekyll, sample]
 # thumbnail image for post
-img: "king.jpeg"
+img: ":king.jpeg"
 # disable comments on this page
 #comments_disable: true
 
@@ -46,7 +46,9 @@ date: 2022-12-27 02:30:03 +0900
 
 is it working?
 ---
-look!
+look! Here's our King Julian!
+![king.jpeg](/assets/img/posts/king.jpeg)
+
 <!-- outline-end -->
 
-###really?
+##pic of king Julian
