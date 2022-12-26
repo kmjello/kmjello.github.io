@@ -1,15 +1,15 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: first post for a test
-title:Test Post
+title: Test Post
 
-# post specific
+post specific : NEW ONE
 # if not specified, .name will be used from _data/owner/[language].yml
-#author: ""
+author: "Kim Min Ju"
 # multiple category is not supported
 category: auto generated
 # multiple tag entries are possible
-tags: [jekyll, sample]
+tags: [jekyll, test]
 # thumbnail image for post
 img: ":king.jpeg"
 # disable comments on this page
@@ -45,10 +45,14 @@ date: 2022-12-27 02:30:03 +0900
 <!-- outline-start -->
 
 is it working?
+===
+Look! Here's __our King Julien!__
 ---
-look! Here's our King Julian!
 ![king.jpeg](/assets/img/posts/king.jpeg)
 
 <!-- outline-end -->
 
-##pic of king Julian
+**Wanna See More Pics of King Julien ?**
+go click under link!
+
+<https://madagascar.fandom.com/wiki/King_Julien>
