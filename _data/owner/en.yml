@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Our Season"
+brand: "Your Brand"
 
 # text below the brand name
-brand_sub_text: "$site_kmj"
+brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "김민주"
+name: "Your Name"
 
 # home page top header texts
 home:
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_Our summer"
+  sub_title: "$site_sample"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
