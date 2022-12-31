@@ -44,13 +44,13 @@ date: 2022-12-28 17:47:12 +0900
 {%- include util/auto-content-generator.liquid -%}
 
 <!-- outline-start -->
-겨울방학 할 일 목록
-===
+겨울방학 할 일 목록  
+======
 Part 1. 코딩
 Part 2. 영어
-Part 3. 그 외
----
-__Part 1. 코딩__ 
+Part 3. 그 외  
+-----
+__Part 1. 코딩__   
 
 1. 생활코딩 강의 들으면서 가벼운 문법 익히기
  - HTML & Internet : 기본적인 HTML 문법과 웹의 구조 알기
@@ -67,7 +67,7 @@ __Part 1. 코딩__
  - JAVA 클래스 문제 위주로 학습
  - Python 사고력 문제 위주로 학습
  
- __Part 2. 영어__
+ __Part 2. 영어__  
  
 원래는 어학연수 때문에 토플 따야하는데, 토플이 국내에서는 잘 안쓰인다고 해서 고민...
 기한 제한없는 오픽을 따놓을까 토익을 볼까
@@ -76,17 +76,15 @@ __Part 1. 코딩__
 토플이나 오픽 공부해야하는데 둘 다 스피킹이 있어서 학원을 다녀야하나,,?
 일단 좀 더 알아보기..
 
-__Part 3. 그 외__
+__Part 3. 그 외__  
 
 알바 -> 계속 전화는 오는데, 다들 오래 일할 사람 구한다구ㅜㅜㅜ
 과외 -> 구해지면 하겠지
 
 
-
-
-링크 임베디드 해봐써 ~
-[kmjello의 깃허브 놀러가기]<https://github.com/kmjello/kmjello.github.io>
-[mjk25의 깃허브 놀러가기]<https://github.com/mjk25>
+링크 임베디드 해봐써 ~  
+[kmjello의 깃허브 놀러가기]<https://github.com/kmjello/kmjello.github.io>  
+[mjk25의 깃허브 놀러가기]<https://github.com/mjk25>  
 
 이미지도 잘 적용되라 ㅈㅂ~
 
