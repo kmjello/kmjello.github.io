@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: first post for a test
-title: Test Post
+title: First Test Post for Julien!
 
 post specific : NEW ONE
 # if not specified, .name will be used from _data/owner/[language].yml
